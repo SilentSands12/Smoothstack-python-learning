@@ -1,2 +1,6 @@
 # virtual environment dir not necessary
 /vEnv
+
+*data*.npy
+
+Python-Assignments/create_numpy_arrays.py
