@@ -3,6 +3,7 @@
 
 *data*.npy
 sales_data.xlsx
+customers_data.xlsx
 
 Python-Assignments/create_numpy_arrays.py
 Python-Assignments/result.npy
